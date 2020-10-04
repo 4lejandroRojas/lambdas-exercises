@@ -6,6 +6,6 @@ package interfaces;
  *
  */
 @FunctionalInterface
-public interface operation {
+public interface Operation {
 	Long operationMath (Long p1, Long p2);
 }
